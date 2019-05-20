@@ -1,2 +1,1 @@
-# Cluster-Control
-cluster website
+# Richard's Page
