@@ -4,9 +4,9 @@
 permalink:           pretty
 
 # Setup
-title:               Richard
+title:               集群机器人规划与控制
 tagline:             'HomePage'
-description:         Richard
+description:         集群机器人规划与控制
 url:                 http://chekaiwei.github.io
 baseurl:             '/Cluster-Control'
 #baseurl:             'http://127.0.0.1:4000/'chekaiwei.github.io/Cluster-Control
