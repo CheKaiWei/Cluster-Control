@@ -8,8 +8,8 @@ title:               Richard
 tagline:             'HomePage'
 description:         Richard
 url:                 http://chekaiwei.github.io
-baseurl:             'chekaiwei.github.io/Cluster-Control'
-#baseurl:             'http://127.0.0.1:4000/'
+baseurl:             'Cluster-Control'
+#baseurl:             'http://127.0.0.1:4000/'chekaiwei.github.io/Cluster-Control
 paginate:            5
 
 
